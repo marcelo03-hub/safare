@@ -1,0 +1,8 @@
+{
+  "name": "SAFARÉ — Muslim Journey & Travel",
+  "description": "Premium Umrah, spiritual heritage, and Muslim-friendly international journeys across Makkah, Madinah, Thaif, AlUla, Istanbul, and Cappadocia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
